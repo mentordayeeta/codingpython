@@ -1,0 +1,6 @@
+Rollno = input("Enter your roll no")
+Section = input("Enter your section")
+Name = input("Enter your name")
+Class = input("Enter your class")
+School = input("Enter your school name") 
+print("i study in" +" " + School +" " + Class +" " + Section + " " + "my roll no. is" + " " + Rollno)
