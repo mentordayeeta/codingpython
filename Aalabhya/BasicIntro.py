@@ -1,0 +1,6 @@
+Name=input("Enter your name!:")
+Roll=input("Enter your role number!:")
+Class=input("Enter your Grade!:")
+Section=input("Enter your Section!:")
+School=input("Enter your School!:")
+print("Hello!,my name is "+Name+".My roll number is "+Roll+"!My grade is "+Class+" in Section "+Section+"! My school is "+School+"!Thank you for listening!")
