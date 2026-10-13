@@ -1,5 +1,8 @@
-# r = int(input("Enter any number"))
-n = [15,87,65,42,99]
+r = int(input("Enter any number"))
+n = []
+for k in range(r):
+    y = int(input("Enter your values"))
+    n.append(y)
 for i in n:
    if (i % 15==0):
        print('Fizz Buzz') 
